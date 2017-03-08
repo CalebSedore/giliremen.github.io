@@ -17,7 +17,8 @@
 <p> For a majority of my childhood, Barack Obama was the President of the United States of America. After this past unprecendented election, many Americans miss his presence in the Oval Office, so I decided to create a timeline of his very interesting and profound life. Check it out below! </p> 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Z4VXuyLGQwWeaY-_q1aaJmOru_mzWEQGlWu86xO-C-A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-Time Series Chart: 
+<h1> Time Series Chart </h1> 
+<p> As a citizen of the world I am very concerned about Climate Change and Global Warming. I wanted to see how the two biggest carbon dioxide emitters: the USA and China, </p>
 ![Carbon Dioxide Emissions](https://giliremen.github.io/USAvChinaCO22.png)
 [Carbon Dioxide Emissions USA vs. China](https://giliremen.github.io/CO2Emissions.html)
 
