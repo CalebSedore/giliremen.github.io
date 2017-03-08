@@ -4,6 +4,8 @@
 <p> Here is a comic strip I made using the program 'pixton.' </p>
 <iframe src="//www.pixton.com/embed/ipcwuvrt" frameborder="0" width="100%" height="1000" allowfullscreen></iframe>
 
+<h1> Infographic </h1>
+As a student at Lehigh Univeristy and a journalist on campus, I was interested to see how diverse our student body actually is. After doing some research I made an infographic to represent our student body ethnic diversity (or lack thereof) on campus. 
 ![Infographic of Student Diversity at Lehigh](https://giliremen.github.io/Ethnicity2.png)
 [Infographic of Student Diversity at Lehigh](https://giliremen.github.io/Diversity.html)
 
@@ -17,7 +19,6 @@
 ![Carbon Dioxide Emissions](https://giliremen.github.io/USAvChinaCO22.png)
 [Carbon Dioxide Emissions USA vs. China](https://giliremen.github.io/CO2Emissions.html)
 
-<h1> Infographic </h1>
-<p> As a student at Lehigh Univeristy and a journalist on campus, I was interested to see how diverse our student body actually is. After doing some research I made an infographic to represent our student body ethnic diversity (or lack thereof) on campus. </p> 
+
 
 <theme: jekyll-theme-cayman>
