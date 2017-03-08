@@ -1,8 +1,10 @@
 <h1>Hello World! Welcome to my Github Page!</h1>
 <p>I'm hosted with Github Pages.</p>
 <iframe src="//www.pixton.com/embed/ipcwuvrt" frameborder="0" width="100%" height="1000" allowfullscreen></iframe>
-
-Infographic:
+<body> 
+<body>
+<h1> Infographic </h1>
+<h2> As a student at Lehigh Univeristy and a journalist on campus, I was interested to see how diverse our student body actually is. After doing some research I made an infographic to represent our student body ethnic diversity (or lack thereof) on campus. </h2> 
 ![Infographic of Student Diversity at Lehigh](https://giliremen.github.io/Ethnicity2.png)
 [Infographic of Student Diversity at Lehigh](https://giliremen.github.io/Diversity.html)
 <body>
