@@ -15,7 +15,7 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Z4VXuyLGQwWeaY-_q1aaJmOru_mzWEQGlWu86xO-C-A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 <h1> Time Series Chart </h1> 
-<p> As a citizen of the world I am very concerned about Climate Change and Global Warming. I wanted to see how the two biggest carbon dioxide emitters: the USA and China, </p>
+<p> As a citizen of the world I am very concerned about Climate Change and Global Warming. I wanted to see how the two biggest carbon dioxide emitters, the USA and China, have been changing their carbon dioxide emissions. So I made a chart with Chart builder, check it out below.</p>
 ![Carbon Dioxide Emissions](https://giliremen.github.io/USAvChinaCO22.png)
 [Carbon Dioxide Emissions USA vs. China](https://giliremen.github.io/CO2Emissions.html)
 
