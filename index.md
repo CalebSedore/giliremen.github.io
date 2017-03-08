@@ -10,6 +10,7 @@ Infographic:
 
 Time Series Chart: 
 ![Carbon Dioxide Emissions](https://giliremen.github.io/USAvChinaCO22.png)
-[Carbon Dioxide Emissions USA vs. China](
-<img class="pretty" src=USAvChinaCO22.png style="width:75%"> 
+[Carbon Dioxide Emissions USA vs. China](https://giliremen.github.io/CO2Emissions.html)
+
+
 <theme: jekyll-theme-cayman>
