@@ -1,7 +1,7 @@
 <h1>Hello World! Welcome to my Github Page!</h1>
 <p> My name is Gili Remen and I am a Journalism and Global Studies double major with a business minor at Lehigh University. Here is a sampling of the different types of Data Journalism that I have created. This github site was created for my Visaual Communications class, where I learned how to make all these amazing data visualizations with different programs. I'm hosted with Github Pages.</p>
 <h1> Comic Strip </h1> 
-<p> Here is a comic strip I made using the program 'pixton.' </p>
+<p> Here is a comic strip I made about my study abroad plans, using the program 'pixton.' </p>
 <iframe src="//www.pixton.com/embed/ipcwuvrt" frameborder="0" width="100%" height="1000" allowfullscreen></iframe>
 
 <h1> Infographic </h1>
