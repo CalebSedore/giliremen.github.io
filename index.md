@@ -5,8 +5,10 @@
 <body>
 <h1> Infographic </h1>
 <h2> As a student at Lehigh Univeristy and a journalist on campus, I was interested to see how diverse our student body actually is. After doing some research I made an infographic to represent our student body ethnic diversity (or lack thereof) on campus. </h2> 
+
 ![Infographic of Student Diversity at Lehigh](https://giliremen.github.io/Ethnicity2.png)
 [Infographic of Student Diversity at Lehigh](https://giliremen.github.io/Diversity.html)
+
 <body>
 <body> 
 <h1> Timeline </h1> 
