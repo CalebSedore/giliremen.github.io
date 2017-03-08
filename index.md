@@ -3,16 +3,14 @@
 <h1> Comic Strip </h1> 
 <p> Here is a comic strip I made using the program 'pixton.' </p>
 <iframe src="//www.pixton.com/embed/ipcwuvrt" frameborder="0" width="100%" height="1000" allowfullscreen></iframe>
-<body> 
-<body>
+
 <h1> Infographic </h1>
 <p> As a student at Lehigh Univeristy and a journalist on campus, I was interested to see how diverse our student body actually is. After doing some research I made an infographic to represent our student body ethnic diversity (or lack thereof) on campus. </p> 
 
 ![Infographic of Student Diversity at Lehigh](https://giliremen.github.io/Ethnicity2.png)
 [Infographic of Student Diversity at Lehigh](https://giliremen.github.io/Diversity.html)
 
-<body>
-<body> 
+
 <h1> Timeline </h1> 
 <p> For a majority of my childhood, Barack Obama was the President of the United States of America. After this past unprecendented election, many Americans miss his presence in the Oval Office, so I decided to create a timeline of his very interesting and profound life. Check it out below! </p> 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Z4VXuyLGQwWeaY-_q1aaJmOru_mzWEQGlWu86xO-C-A&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
