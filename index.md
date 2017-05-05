@@ -19,6 +19,8 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 ![Carbon Dioxide Emissions](https://giliremen.github.io/USAvChinaCO22.png)
 [Carbon Dioxide Emissions USA vs. China](https://giliremen.github.io/CO2Emissions.html)
 
-
+<h1> A Map of Gili's Adventures in Los Angeles in Feb. 2017 </h1>
+  <h2> Gili Remen </h2> 
+<iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1JJRwprpq6t9PJPV28suAyNQtUWT7D-2_7JRybFQ0&amp;viz=MAP&amp;h=false&amp;lat=34.052616423172374&amp;lng=-118.38449697812497&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 <theme: jekyll-theme-cayman>
