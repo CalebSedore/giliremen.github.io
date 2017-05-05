@@ -24,8 +24,8 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1JJRwprpq6t9PJPV28suAyNQtUWT7D-2_7JRybFQ0&amp;viz=MAP&amp;h=false&amp;lat=34.052616423172374&amp;lng=-118.38449697812497&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 <md>
-<h1> Worldwide Tobacco Smoker Statistics </h1>
-<h2>Gili Remen</h2>
+<h1> Tableau Public - Interactive Graphic </h1>
+<p> An interactive graphic about worldwide tobacco user statistics (2010 vs. 2025)
 <div class='tableauPlaceholder' id='viz1488556978565' style='position: relative'><noscript><a href='#'><img alt='Global Tobacco User Statistics (2010 vs. 2025) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CQ&#47;CQGT6DQTT&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='path' value='shared&#47;CQGT6DQTT' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;CQ&#47;CQGT6DQTT&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1488556978565');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1020px';vizElement.style.height='1033px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 </md>
 
