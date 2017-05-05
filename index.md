@@ -20,7 +20,7 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 [Carbon Dioxide Emissions USA vs. China](https://giliremen.github.io/CO2Emissions.html)
 
 <h1> Interactive Online Map  </h1>
-  <p> During Feburary of 2017 I went to Los Angeles for the Israeli American Council national student conference. During that time I got to explore the city of Los Angeles a little bit before the conference started, and these are the places I got to visit. </p> 
+  <p> During February of 2017 I went to Los Angeles for the Israeli American Council national student conference. During that time I got to explore the city of Los Angeles a little bit before the conference started, and these are the places I got to visit. </p> 
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1JJRwprpq6t9PJPV28suAyNQtUWT7D-2_7JRybFQ0&amp;viz=MAP&amp;h=false&amp;lat=34.052616423172374&amp;lng=-118.38449697812497&amp;t=1&amp;z=11&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
 <theme: jekyll-theme-cayman>
