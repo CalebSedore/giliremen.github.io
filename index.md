@@ -42,4 +42,9 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 </md>
 <p> Made with Tableau Public </p>
 
+<h2>Portrait Photos</h2>
+![Portrait of Cole Magura](https://CatherineManthorp.github.io/Portrait1.jpg)
+<p> </p>
+
+
 <theme: jekyll-theme-cayman>
