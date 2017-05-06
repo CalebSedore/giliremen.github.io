@@ -42,9 +42,15 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 </md>
 <p> Made with Tableau Public </p>
 
-<h2>Portrait Photos</h2>
+<h1>Portrait Photos</h1>
 ![Portrait of Cole Magura](https://giliremen.github.io/ColePortrait.jpg)
 <p> </p>
+
+<h1>News Photos</h1>
+
+<h1> Video Project </h1> 
+
+<h1> Magazine Layout Project </h1> 
 
 
 <theme: jekyll-theme-cayman>
