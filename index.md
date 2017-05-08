@@ -43,19 +43,23 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 <p> Made with Tableau Public </p>
 
 <h1>Portrait Photos</h1>
-[ColePortrait](https://giliremen.github.io/ColePortrait.jpg)
-<p> </p>
+<p> These photos are all of Nicole Magura '19, she goes by Cole. We went on a photoshoot around campus and luckily for us it was such a nice day, so we found some great lighting! </p>
+<img src="https://giliremen.github.io/ColePortrait.jpg">
 
 <h1>News Photos</h1>
-[Newsphoto](https://giliremen.github.io/Newsphoto.jpg)
+<p> On Thursday, April 6, the Political Science department brought Julian Sanchez, a senior fellow at the public policy Cato institute and expert on digital privacy, to campus as this years Tresolini Law Lecturer. He gave an interesting lecture titled "The Forth Amendment and Electronic Surveillance" at 8pm last Thursday in Packard 101. </p>
+<img src="https://giliremen.github.io/Newsphoto.jpg">
+
 
 <h1> Video Project </h1> 
 <p> Click on the link below to view my video project about the Lehigh University United Nations Partnership </p>
 <https://drive.google.com/a/lehigh.edu/file/d/0B1ZwBHpEfJWseGlZMkpuR3JGZ00/view?usp=sharing>
 
 <h1> Magazine Layout Project </h1> 
-![UNLayout1](https://giliremen.github.io/UNLayout1.jpg)
-![UNLayout2](https://giliremen.github.io/UNLayout2.jpg)
+<p> Here is my article and ID layout for the UN/LU partnership project! </p>
+<img src="https://giliremen.github.io/UNLayout1.jpg">
+<img src="https://giliremen.github.io/UNLayout2.jpg">
+
 
 
 <theme: jekyll-theme-cayman>
