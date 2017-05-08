@@ -43,7 +43,7 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 <p> Made with Tableau Public </p>
 
 <h1>Portrait Photos</h1>
-![ColePortrait](https://giliremen.github.io/ColePortrait.jpg)
+[ColePortrait](https://giliremen.github.io/ColePortrait.jpg)
 <p> Caption </p>
 
 <h1>News Photos</h1>
