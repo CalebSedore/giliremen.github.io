@@ -44,9 +44,10 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 
 <h1>Portrait Photos</h1>
 [ColePortrait](https://giliremen.github.io/ColePortrait.jpg)
-<p> Caption </p>
+<p> </p>
 
 <h1>News Photos</h1>
+[Newsphoto](https://giliremen.github.io/Newsphoto.jpg)
 
 <h1> Video Project </h1> 
 <p> Click on the link below to view my video project about the Lehigh University United Nations Partnership </p>
