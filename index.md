@@ -53,8 +53,8 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 <https://drive.google.com/a/lehigh.edu/file/d/0B1ZwBHpEfJWseGlZMkpuR3JGZ00/view?usp=sharing>
 
 <h1> Magazine Layout Project </h1> 
-![UNLayoout1](https://giliremen.github.io/UNLayout1.jpg)
-
+![UNLayout1](https://giliremen.github.io/UNLayout1.jpg)
+![UNLayout2](https://giliremen.github.io/UNLayout2.jpg)
 
 
 <theme: jekyll-theme-cayman>
