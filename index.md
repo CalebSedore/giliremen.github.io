@@ -53,9 +53,8 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 <https://drive.google.com/a/lehigh.edu/file/d/0B1ZwBHpEfJWseGlZMkpuR3JGZ00/view?usp=sharing>
 
 <h1> Magazine Layout Project </h1> 
-![
-![First Part of Magazine Article about the Lehigh Melismatics](https://CatherineManthorp.github.io/Mag1.jpg)
-![Second Part of Magazine Article about the Lehigh Melismatics](https://CatherineManthorp.github.io/Mag2.jpg)
+![UNLayoout1](https://giliremen.github.io/UNLayout1.jpg)
+
 
 
 <theme: jekyll-theme-cayman>
