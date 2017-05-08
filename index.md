@@ -55,8 +55,6 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 <p> Click on the link below to view my video project about the Lehigh University United Nations Partnership </p>
 <a href="https://drive.google.com/a/lehigh.edu/file/d/0B1ZwBHpEfJWseGlZMkpuR3JGZ00/view?usp=sharing">LU/UN Partnership Video</a></p>
 
-<https://drive.google.com/a/lehigh.edu/file/d/0B1ZwBHpEfJWseGlZMkpuR3JGZ00/view?usp=sharing>
-
 <h1> Magazine Layout Project </h1> 
 <p> Here is my article and In Design layout for the UN/LU partnership project! </p>
 <img src="https://giliremen.github.io/UNLayout1.jpg">
