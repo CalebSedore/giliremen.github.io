@@ -49,6 +49,7 @@ As a student at Lehigh Univeristy and a journalist on campus, I was interested t
 <h1>News Photos</h1>
 
 <h1> Video Project </h1> 
+<https://drive.google.com/a/lehigh.edu/file/d/0B1ZwBHpEfJWseGlZMkpuR3JGZ00/view?usp=sharing>
 
 <h1> Magazine Layout Project </h1> 
 
